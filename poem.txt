@@ -1,7 +1,7 @@
 This is Git Basic | I am Unicorn
 Hotpink
 Colors | I am Unicorn
-Red
+Red | I am Ponies
 Yellow
-Green
+Green | I am ponies ahihi
 Blue
