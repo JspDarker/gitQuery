@@ -1,6 +1,6 @@
-This is Git Basic
+This is Git Basic | I am Unicorn
 Hotpink
-Colors
+Colors | I am Unicorn
 Red
 Yellow
 Green
